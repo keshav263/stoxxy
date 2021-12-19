@@ -143,7 +143,6 @@
 			children = (
 			);
 			name = Resources;
-			path = "";
 			sourceTree = "<group>";
 		};
 		BEAD7F1AB0FD66FB64778B7E /* Pods */ = {
@@ -154,7 +153,6 @@
 				9177410EC9A482C0048EDDDE /* Pods-stoxxy-stoxxyTests.debug.xcconfig */,
 				95091DB0143D644184C68AFF /* Pods-stoxxy-stoxxyTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
